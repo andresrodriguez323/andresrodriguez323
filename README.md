@@ -63,8 +63,10 @@ Colaboración en backend para gestión de contrataciones.
 
 - [cite_start]**Ubicación:** Bogotá D.C., Colombia 🇨🇴 [cite: 42]
 - [cite_start]**Email:** [julianandresrodriguezgaleano3@gmail.com](mailto:julianandresrodriguezgaleano3@gmail.com) [cite: 43]
-- [cite_start]**LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario) [cite: 45]
-- **Portafolio:** [Tu Portafolio o Web]
+- [cite_start]**LinkedIn:** [Tu Perfil de LinkedIn](www.linkedin.com/in/
+julian-rodriguez-404b71409
+) [cite: 45]
+- **Portafolio:** (https://github.com/andresrodriguez323/proyectos-varios/blob/main/portafolio.zip)
 
 ---
 ⭐️ *Cualquier feedback es bienvenido para seguir creciendo como desarrollador.*
